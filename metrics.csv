@@ -1,0 +1,4 @@
+model,accuracy,roc_auc,brier,log_loss
+Logistic regression,0.9736,0.9947,0.02,0.0764
+Random forest,0.9525,0.9882,0.0336,0.1776
+Gaussian process,0.9684,0.9952,0.0241,0.091

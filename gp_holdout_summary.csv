@@ -1,0 +1,6 @@
+,value
+n_test,171
+n_uncertain (0.2 < p < 0.8),22
+errors_total,5
+errors_among_uncertain,4
+errors_among_confident,1
